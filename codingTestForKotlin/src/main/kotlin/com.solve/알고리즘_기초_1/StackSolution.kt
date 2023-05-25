@@ -1,3 +1,5 @@
+package 알고리즘_기초_1
+
 import common.Solution
 
 class StackSolution : Solution {
